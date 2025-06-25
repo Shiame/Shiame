@@ -61,17 +61,20 @@ I'm a passionate **Software Engineering student** at ENSIAS, currently focused o
 **Full-Stack Urban Complaint Management Platform**
 - **Tech Stack:** Spring Boot, Angular.js, React Native, PostgreSQL, FastAPI, Docker, Kubernetes
 - **Features:** Mobile & web platform, admin dashboards, NLP complaint classification
-- **Highlights:** JWT/OAuth2 authentication, containerized deployment, D3.js data viz
+- **Highlights:** JWT/OAuth2 authentication, containerized deployment, Chart.js data vizualisation.
+- **🔗 [View Repository](https://github.com/Shiame/pfa2025_)**
 
 ### 🔧 [Vehicle Diagnostics & Repair Management](https://github.com/Shiame/vehicle-repair-system)
 **Enterprise Vehicle Management System**
 - **Tech Stack:** Spring Boot, Spring Security, JavaScript, MySQL, REST APIs
 - **Features:** Vehicle diagnostics tracking, secure access, repair management
+- **🔗 [View Repository](https://github.com/Shiame/projetpfa_2024)**
 
 ### 📚 [Student Internship Management Platform](https://github.com/Shiame/internship-management)
 **Academic Management System**
 - **Tech Stack:** Spring Boot, React.js, Oracle Database, REST APIs
 - **Features:** Internship tracking, secure login, query optimization
+- **🔗 [View Repository](https://github.com/Shiame/gestion_de_stage_app_web)** 
 
 ---
 
@@ -80,6 +83,8 @@ I'm a passionate **Software Engineering student** at ENSIAS, currently focused o
 **🏠 Software Development Intern** | *Ministry of Agriculture* | *July-August 2024*
 - Built a centralized web portal for internal use
 - Integrated a secure file management module
+-  **🔗 [Project Repository](https://github.com/Shiame/internship-project)** 
+
 
 **💻 Symfony Developer Intern** | *ForNet* | *August-September 2024*
 - Automated tender response system using Symfony
