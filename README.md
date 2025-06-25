@@ -15,7 +15,7 @@ I'm a passionate **Software Engineering student** at ENSIAS, currently focused o
 
 - 🔭 **Currently working on:** [Automated VM Hardening with Bash & Ansible](https://github.com/Shiame/vm-hardening-automation)
 - 🌱 **Learning:** Ansible, Terraform, GitLab CI/CD, AWS fundamentals
-- 📄 **[Download my CV](https://github.com/Shiame/Shiame/raw/main/assets/CV_Chaymae_Bouazza.pdf)** for detailed information
+- 📄 **[Download my CV](https://github.com/Shiame/Shiame/raw/main/assets/chaymae_bouazza_cv_en.pdf)** for detailed information
 - ✨ **Fun fact:** My VMs are more secure than my Netflix password 😅
 
 ---
