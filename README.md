@@ -14,9 +14,8 @@
 I'm a passionate **Software Engineering student** at ENSIAS, currently focused on **backend development**, **DevOps practices**, and **cloud technologies**. I'm preparing for a career in cloud/DevOps engineering, and I enjoy building secure, automated, and scalable solutions.
 
 - 🔭 **Currently working on:** [Automated VM Hardening with Bash & Ansible](https://github.com/Shiame/vm-hardening-automation)
-- 🌱 **Learning:** Ansible, Terraform, GitLab CI/CD, AWS fundamentals
 - 📄 **[Download my CV](https://github.com/Shiame/Shiame/raw/main/assets/chaymae_bouazza_cv_en.pdf)** for detailed information
-- ✨ **Fun fact:** My VMs are more secure than my Netflix password 😅
+
 
 ---
 
